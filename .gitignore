@@ -3,6 +3,7 @@ node_modules/
 *.log
 .DS_Store
 coverage/
+tt.js
 
 # 老師端文件（不進學生 repo）
 grading.md
