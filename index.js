@@ -1,5 +1,5 @@
 const fs = require('fs/promises');
-require('dotenv').config({ quiet: true });
+// require('dotenv').config({ quiet: true });
 
 // ========== 任務一：讀取會員清單 ==========
 /**
